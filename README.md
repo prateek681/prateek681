@@ -33,6 +33,9 @@ Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, kera
 <a href="https://www.linkedin.com/in/prateek-bahl-576592150/"> <img align="left" alt="Prateek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prateek681)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek681)](https://github.com/anuraghazra/github-readme-stats)
