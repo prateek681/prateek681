@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Prateek Bahl
 #### Interested and skilled in Data Science, Machine Learning, Artificial Intelligence, Deep Learning
-👨🏻‍🎓 I’m currently working as Graduate Research Assistant at [IPEM](https://protech.mb.uni-siegen.de/ipem/) at [Universität Siegen] (https://www.uni-siegen.de/start/index.html.en?lang=en)
+👨🏻‍🎓 I’m currently working as Graduate Research Assistant at [IPEM](https://protech.mb.uni-siegen.de/ipem/) at [Universität Siegen](https://www.uni-siegen.de/start/index.html.en?lang=en)
 
 Skills: Python, C, C++, MATLAB, Simulink, Linux
 
