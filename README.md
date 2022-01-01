@@ -28,9 +28,7 @@ Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, kera
 - 🌱 I’m currently learning Computer Vision and Data Mining Techniques 
 - 💬 Ask me about Deep Learning, Data Science, Machine Learning and Artificial Intelligence 
 - 📫 How to reach me: prat.bahl@gmail.com 
-
-
-<a href="https://www.linkedin.com/in/prateek-bahl-576592150/"> <img align="left" alt="Prateek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+-<a href="https://www.linkedin.com/in/prateek-bahl-576592150/"> <img align="left" alt="Prateek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
