@@ -37,5 +37,4 @@ Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, kera
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek681)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek681&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/prateek681)  
+ 
