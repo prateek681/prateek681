@@ -23,7 +23,7 @@ Skills: Python, C, C++, MATLAB, Simulink, Linux
 Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, keras, tensorflow, torch  
 
 - 🔭 I’m currently working on AGASTIK (Automatic Generation of Assembly Sequence and Times from Implicit Knowledge) using Deep Learning Methods to identify and optimize manufacturing procedures and work flows. 
-- 🌱 I’m currently learning Computer Vision and Data Mining Techniques 
+- 🌱 I’m currently learning Computer Vision, Adverserial Networks and Data Mining Techniques 
 - 💬 Ask me about Deep Learning, Data Science, Machine Learning and Artificial Intelligence 
 - 📫 How to reach me: prat.bahl@gmail.com 
 - <a href="https://www.linkedin.com/in/prateek-bahl-576592150/"> <img align="left" alt="Prateek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
