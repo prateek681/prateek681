@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 Skills: Python, C, C++, MATLAB, Simulink, Linux
 
-Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, keras, tensorflow, torch  
+Libraries: numpy, pandas, scikit-learn, matplotlib.pyplot, seaborn, plotly, keras, tensorflow, torch 
+
+Languages: German, English
 
 - 🔭 I’m currently working on AGASTIK (Automatic Generation of Assembly Sequence and Times from Implicit Knowledge) using Deep Learning Methods to identify and optimize manufacturing procedures and work flows. 
 - 🌱 I’m currently learning Computer Vision, Adverserial Networks and Data Mining Techniques 
